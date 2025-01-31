@@ -43,3 +43,9 @@ Getting the result of the Scan and a report
 Generating an OWASP Top Ten Report
 ![Rapport_DEHBISiham_MAGATHind pdf-image-010](https://github.com/user-attachments/assets/374356ae-e453-4733-bbf4-a2e96366c02b)
 
+### 3- Implementing the security Measures
+
+Strict Policy Password
+
+
+
